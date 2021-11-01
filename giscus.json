@@ -8,5 +8,8 @@
         "https://ccknbc.vercel.app",
         "https://ccknbc.netlify.app",
         "https://blog.ccknbc.cc"
+    ],
+    "originsRegex": [
+        "http://localhost:[0-9]+"
     ]
 }
